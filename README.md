@@ -23,7 +23,7 @@ django를 애용하던 개발자가 express 세팅이 귀찮아서 만드는 sel
 [ ] 파일 업로드 설정 (local)  
 [ ] 파일 업로드 설정 (S3)  
 [ ] error handling 설정  
-[ ] admin 설정
+[ ] admin 설정  
 [ ] socket 설정  
 [ ] docker 설정  
 [ ] 배포 설정  
